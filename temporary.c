@@ -6,6 +6,7 @@
 #include <ctype.h>
 int main()
 {
+	// output : 1 -1 1 -1 1 -1..
 	int i, j = 1;
 	for (i = 0; i < 7; i++)
 	{
